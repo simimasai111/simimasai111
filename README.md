@@ -28,17 +28,17 @@
 <p align="center">
   <!-- 邮箱 -->
   <a href="mailto:ilovmht@qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-ilovmht@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ilovmht@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <!-- GitHub -->
   <a href="https://github.com/simimasai111" target="_blank">
-    <img src="https://img.shields.io/badge/🐙_GitHub-simimasai111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-simimasai111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
   <!-- Bilibili -->
   <a href="https://space.bilibili.com/1607599138" target="_blank">
-    <img src="https://img.shields.io/badge/📺_BiliBili-1607599138-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/BiliBili-1607599138-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
 </p>
 
