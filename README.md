@@ -34,5 +34,3 @@
 ---
 
 > 严谨编码，幽默生活。
-
-![Profile Views Bottom](https://komarev.com/ghpvc/?username=simimasai111)
