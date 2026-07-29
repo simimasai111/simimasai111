@@ -14,12 +14,29 @@
 
 ### 🛠️ 技术栈 & 工具箱 | Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e293b" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1e293b" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e293b" alt="Git" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1e293b" alt="C" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1e293b" alt="Markdown" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub" />
+  <a href="https://github.com/python/cpython" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e293b" alt="Python" />
+  </a>
+  
+  <a href="https://github.com/torvalds/linux" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1e293b" alt="Linux" />
+  </a>
+  
+  <a href="https://github.com/git/git" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e293b" alt="Git" />
+  </a>
+  
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1e293b" alt="C" />
+  </a>
+  
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1e293b" alt="Markdown" />
+  </a>
+  
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub" />
+  </a>
 </p>
 
 ---
