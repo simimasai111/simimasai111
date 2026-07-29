@@ -24,28 +24,21 @@
 
 ---
 
-### 📊 数据看板 | GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simimasai111&show_icons=true&theme=aura&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simimasai111&theme=aura&hide_border=true&bg_color=00000000" alt="Streak Stats" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simimasai111&layout=compact&theme=aura&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=simimasai111&theme=onedark&column=4&margin-w=10&margin-h=10" alt="Trophies" width="48%" />
-</p>
-
----
-
 ### 📫 建立连接 | Connect with Me
-<p align="left">
-  <a href="mailto:ilovmht@qq.com">
-    <img src="https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p align="center">
+  <!-- 邮箱 -->
+  <a href="mailto:ilovmht@qq.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-ilovmht@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/simimasai111">
-    <img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
+  <!-- GitHub -->
+  <a href="https://github.com/simimasai111" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-simimasai111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://space.bilibili.com/1607599138">
-    <img src="https://img.shields.io/badge/BiliBili-FB7299" />
+  
+  <!-- Bilibili -->
+  <a href="https://space.bilibili.com/1607599138" target="_blank">
+    <img src="https://img.shields.io/badge/📺_BiliBili-1607599138-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
 </p>
 
